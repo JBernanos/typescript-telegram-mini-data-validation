@@ -2,8 +2,9 @@
 import dotenv from "dotenv";
 import crypto from "node:crypto";
 
-// Types
-import { ParsedInitData } from "./types/InitData";
+type ParsedInitData = {
+  [key: string]: string;
+};
 
 function main() {
   dotenv.config();
