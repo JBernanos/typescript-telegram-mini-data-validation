@@ -1,4 +1,4 @@
-# Typescript Telegram WebAppData Validation
+# Typescript Telegram MiniApp Data Validation
 
 A simple way to validate the data received from Telegram while using Mini Apps.
 
